@@ -1,0 +1,6 @@
+Id : 102
+name : shyam
+salary : 98000.000000
+Id : 101
+name : Geeta
+salary : 87000.000000
